@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-classic
+langchain-groq
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
